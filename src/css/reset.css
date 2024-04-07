@@ -1,9 +1,9 @@
 *{
-  margin: 0;
-  padding: 0; 
-  border: none;
-  outline: none;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;        
 }
 
 a{
@@ -12,9 +12,9 @@ a{
 }
 
 ul{
-list-style: none;
+    list-style: none;
 }
 
 img{
-    max-width: 100%;
+    max-width: 100%;    
 }
